@@ -1,0 +1,33 @@
+[remap]
+
+importer="font_data_dynamic"
+type="FontFile"
+uid="uid://b4f16b0glbwc2"
+path="res://.godot/imported/TT Rounds Neue Trial Compressed Bold Italic.ttf-0f704587cfb5ff4b525875e2e2cdd319.fontdata"
+
+[deps]
+
+source_file="res://font/tt font/TT Rounds Neue Trial Compressed Bold Italic.ttf"
+dest_files=["res://.godot/imported/TT Rounds Neue Trial Compressed Bold Italic.ttf-0f704587cfb5ff4b525875e2e2cdd319.fontdata"]
+
+[params]
+
+Rendering=null
+antialiasing=1
+generate_mipmaps=false
+multichannel_signed_distance_field=false
+msdf_pixel_range=8
+msdf_size=48
+allow_system_fallback=true
+force_autohinter=false
+hinting=1
+subpixel_positioning=1
+oversampling=0.0
+Fallbacks=null
+fallbacks=[]
+Compress=null
+compress=true
+preload=[]
+language_support={}
+script_support={}
+opentype_features={}
